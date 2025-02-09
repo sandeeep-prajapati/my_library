@@ -57,7 +57,7 @@ You can include libraries in your `layout.blade.php` or any specific Blade file 
 <script>
     $(document).ready(function () {
         $('#greetBtn').click(function () {
-            alert('Hello, {{ $name }}!');
+            alert('Hello, {!! json_encode($name) !!}!');
         });
     });
 </script>
