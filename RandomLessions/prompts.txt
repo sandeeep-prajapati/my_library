@@ -1,0 +1,8 @@
+Stored Procedures:
+1. "Explain how stored procedures work in MySQL and how I can execute them in Laravel using raw queries or Eloquent." 
+2. "What are the advantages and disadvantages of using stored procedures in Laravel applications compared to ORM-based queries?" 
+3. "Provide an example of a stored procedure for retrieving user orders in MySQL and demonstrate how to call it in Laravel."  
+
+**Indexing:**
+4. **"Explain database indexing in MySQL and how it impacts query performance in Laravel applications."**  
+5. **"How can I check and optimize database indexes in MySQL when using Laravel's Eloquent ORM?"**  
