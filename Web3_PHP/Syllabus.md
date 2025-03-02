@@ -22,7 +22,8 @@
 
 ### 🔥 Gas Estimation & Transaction Management
 10. **Create a gas estimator function in Web3 PHP that calculates the gas required for sending 0.1 ETH.**
-11. **Create a Laravel job that periodically sends test transactions to a smart contract deployed on a testnet (Goerli or Sepolia).**
+
+
 
 ### 🔍 Event Listening & Handling
 12. **Write a PHP script to listen for a specific event (like `Transfer`) from an ERC20 contract. Process and log the event data in Laravel.**
