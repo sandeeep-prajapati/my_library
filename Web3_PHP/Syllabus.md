@@ -45,13 +45,3 @@
 20. **Create an advanced error handling mechanism in Laravel for Web3 transactions — automatically retry transactions that fail due to gas issues and log all errors.**
 
 ---
-
-## 🎁 Bonus Prompt
-🚀 **Combine Web3 PHP with Laravel Queues: Whenever a new user registers, automatically create a wallet address for them and send them 0.001 test ETH from a faucet.**
-
----
-
-## 💻 Want me to create a starter Laravel project with these examples already built?  
-I can also create a **"Laravel Web3 PHP Boilerplate"** for you if you want to save time. Want me to set it up? 👨‍💻
-
----
