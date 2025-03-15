@@ -1,4 +1,3 @@
-Here’s a Markdown file (`ethereum_service.md`) that explains how to create a Laravel service class to connect to a local Ethereum node using Hardhat, and also explains the difference between Infura and Hardhat.
 
 ---
 
