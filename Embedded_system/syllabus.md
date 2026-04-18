@@ -71,12 +71,3 @@
 50. Compare userspace GPIO control vs kernel GPIO driver using latency benchmarks.
 
 ---
-
-These **50 prompts cover theory, hands-on code, simulation, and system-level understanding** of:
-
-* Embedded C/C++
-* MCU/MPU architecture
-* Analog/Digital/Power electronics
-* Linux device handling and kernel modules
-
----
